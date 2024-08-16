@@ -4,7 +4,7 @@
 The **Morse Code Generator** project aims to develop an embedded system that converts text input into Morse code signals. It utilizes the **LPC2148 microcontroller**, a **keypad** for text input, an **LCD** for displaying the input text and corresponding Morse code, and either an **LED** or **buzzer** for generating Morse code signals. 🎛️💡
 
 ## **Objectives** ✅
-1. Interface a **keypad** with the LPC2148 microcontroller to input text characters in **Proteus** Software. 🎹
+1. Interface a **keypad** with the LPC2148 microcontroller to input text characters in **Proteus** Software. 
 2. Display the input text and corresponding Morse code on an **LCD**. 📺
 3. Develop a software algorithm to convert text characters into Morse code accurately. 🔣➡️🔊
 4. Generate Morse code signals through visual (**LED**) or audio (**buzzer**) outputs with correct timing for **dots**, **dashes**, and **spaces**. 🔴🔔
