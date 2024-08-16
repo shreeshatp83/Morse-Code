@@ -39,4 +39,4 @@ You can find the complete code in the [code directory](https://github.com/shrees
 The Morse Code Generator project successfully converts text input into Morse code signals using the **LPC2148 microcontroller**, keypad, LCD, and LED/buzzer. The system accurately displays the input text and corresponding Morse code on the LCD while generating the appropriate signals. 🔊
 
 ## **Conclusion** 🏁
-The Morse Code Generator project demonstrates the integration of various hardware components and software algorithms to create a functional embedded system. It showcases the capabilities of the **LPC2148 microcontroller** and the effectiveness of using **Prote
+The Morse Code Generator project demonstrates the integration of various hardware components and software algorithms to create a functional embedded system. It showcases the capabilities of the **LPC2148 microcontroller** and the effectiveness of using **Proteus** for circuit design and simulation, along with Keil uVision 4 for firmware development and testing. 🤖🔬
