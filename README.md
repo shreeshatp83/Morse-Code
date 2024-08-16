@@ -26,7 +26,7 @@ The **Morse Code Generator** project aims to develop an embedded system that con
 ## **Code** 💻
 The project code is written in **C** and utilizes the **Keil uVision 4 IDE**. It includes functions for keypad reading, LCD initialization and control, I2C communication, Morse code conversion, and signal output. The main program integrates these modules to create the Morse code generator system.
 
-You can find the complete code in the [code directory](link-to-code). 📂
+You can find the complete code in the [code directory](https://github.com/shreeshatp83/MORSECODE/blob/main/morse_code.c). 📂
 
 ## **Development and Testing** 🛠️
 1. **Define Requirements**: Outline the project scope, including hardware components and software requirements. 📋
