@@ -21,7 +21,8 @@ The **Morse Code Generator** project aims to develop an embedded system that con
 - **Power Supply** (5.5V, 5V, and 3.3V) ⚡
 
 ## **Circuit Diagram** 🔌
-![Circuit Diagram](path-to-your-image)
+![Circuit Diagram](https://github.com/user-attachments/assets/29d3538c-ca35-4956-a5d8-715953fbf65c)
+
 
 ## **Code** 💻
 The project code is written in **C** and utilizes the **Keil uVision 4 IDE**. It includes functions for keypad reading, LCD initialization and control, I2C communication, Morse code conversion, and signal output. The main program integrates these modules to create the Morse code generator system.
