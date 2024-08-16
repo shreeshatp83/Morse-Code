@@ -29,22 +29,6 @@ The project code is written in **C** and utilizes the **Keil uVision 4 IDE**. It
 
 You can find the complete code in the [code directory](https://github.com/shreeshatp83/MORSECODE/blob/main/morse_code.c). 📂
 
-## **Development and Testing** 🛠️
-1. **Define Requirements**: Outline the project scope, including hardware components and software requirements. 📋
-2. **Create Schematics**: Design the circuit diagram for connecting the keypad, LCD, and LED/buzzer to the LPC2148. 🔌
-3. **Software Development Environment Setup**: Install **Keil uVision 4 IDE** and configure it for LPC2148 development. 💻
-4. **Project Initialization**: Create a new project in **Keil** and configure it for the **LPC2148 microcontroller**. 🆕
-5. **Keypad Initialization**: Write code to initialize the keypad GPIO pins. 🎹
-6. **Keypad Reading**: Implement a function to read input from the keypad and debounce the keys. 🔑
-7. **LCD Initialization**: Write code to initialize the **LCD**. If using I2C, include I2C initialization. 📺
-8. **Display Functions**: Develop functions to send characters and strings to the **LCD** for display. 🖨️
-9. **I2C Initialization**: Write code to initialize the **I2C peripheral** on the LPC2148. 🔗
-10. **I2C Communication**: Implement functions for **I2C communication** to interact with the LCD or other I2C peripherals. 📡
-11. **Morse Code Algorithm**: Develop a function to convert input text characters to their Morse code equivalents using a lookup table. 🔣➡️🔊
-12. **Signal Output**: Implement a function to generate Morse code signals using the **LED** or **buzzer**. Ensure correct timing for **dots** (short signal), **dashes** (long signal), and spaces. 🔴🔔
-13. **Combine Modules**: Integrate the keypad reading, Morse code conversion, and signal output functions into the main program. 🔗
-14. **Debugging**: Use **Keil's debugging tools** to test the system. Set breakpoints and monitor variables to ensure correct operation. 🐞
-15. **Testing**: Test the entire system with different inputs to verify correct Morse code generation and display. 🧪
 
 ## **Applications** 🌐
 1. **Communication**: The Morse code generator can be used for basic communication, especially in emergency situations or areas with limited infrastructure. 📡
